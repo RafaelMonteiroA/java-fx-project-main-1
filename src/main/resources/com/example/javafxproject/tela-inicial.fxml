@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER_LEFT" spacing="15.0" xmlns:fx="http://javafx.com/fxml">
+    <padding>
+        <Insets bottom="15.0" left="15.0" right="15.0" top="15.0"/>
+    </padding>
+
+    <VBox alignment="CENTER" spacing="15.0">
+        <Label text="Cadastro Cliente" />
+        <Label text="Utilize o formulário abaixo para realizar o seu cadastro" />
+    </VBox>
+
+    <Label text="Cardápio de pizzas" />
+
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar" />
+    </VBox>
+
+    <Label text="Funcionarios"  />
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar" />
+    </VBox>
+
+    <Label text="Clientes"  />
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar" />
+    </VBox>
+
+    <Label text="Vendas"  />
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar" />
+    </VBox>
+
+    <Label text="Compra"  />
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar" />
+    </VBox>
+
+    <Label text="Estoque"  />
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar" />
+    </VBox>
+
+    <Label text="Registro de vendas"  />
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar" />
+    </VBox>
+
+    <Label text="Telefones"  />
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar"/>
+    </VBox>
+
+    <Label text="Emails"  />
+    <VBox alignment="CENTER_LEFT">
+        <Button text="Acessar"/>
+    </VBox>
+
+</VBox>
